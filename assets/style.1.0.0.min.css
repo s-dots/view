@@ -29,7 +29,7 @@
 .dashboard {background-color: #FE0002;} /* red */
 .thermostatHeat{background-color: #FF9900} /*amber*/
 .thermostatCool{background-color: #6600CC} /*violet-blue*/
-.alarm {background-color: #CCFF33}
+.alarm {background-color: #6600FF}
 
 .tile {border-radius:2px;color:white}
 .tiles {overflow:hidden}
@@ -38,7 +38,7 @@
 .switch, .dimmer, .dimmerLight, .momentary, .clock, .lock, .refresh, .link, .dashboard, .menu,
 .thermostatHeat .icon.up, .thermostatHeat .icon.down,
 .thermostatCool .icon.up, .thermostatCool .icon.down,
-.music i, .themeLight, .camera, .light, .history {cursor: pointer;}
+.music i, .themeLight, .camera, .light, .history, .alarm {cursor: pointer;}
 
 /* reset ***********************/
 body, .ui-page{background-color:black}
