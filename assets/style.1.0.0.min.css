@@ -122,6 +122,9 @@ html body .spinCold .ui-group-theme-a .ui-btn, .ui-page-theme-a .ui-btn{border:0
 #pincode-popup .st-sa-back {background-color: #f90;}
 #pincode-popup .st-sa-cancel {background-color: #f44336;}
 
+.ui-title.st-sa-success {color: #4caf50;}
+.ui-title.st-sa-fail {color: #f44336;}
+
 /* SLIDER **********/
 .ui-page-theme-a .ui-bar-inherit {background-color:grey;}
 
