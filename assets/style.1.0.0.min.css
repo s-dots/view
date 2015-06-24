@@ -107,6 +107,15 @@ html body .spinCold .ui-group-theme-a .ui-btn, .ui-page-theme-a .ui-btn{border:0
     width: 50px;
 }
 
+#pincode-popup .ui-input-text {
+	color: black;
+	border-color:black
+}
+
+#pincode-popup .ui-input-text {
+	padding: 4px 4px 8px 4px;
+}
+
 /* SLIDER **********/
 .ui-page-theme-a .ui-bar-inherit {background-color:grey;}
 
