@@ -102,9 +102,11 @@ html body .spinCold .ui-group-theme-a .ui-btn, .ui-page-theme-a .ui-btn{border:0
     transform:rotate(45deg)
 }
 
+/*alarm*/
 #pincode-popup .ui-btn {
     margin: 4px;
     width: 50px;
+	background-color: lightGrey;
 }
 
 #pincode-popup .ui-input-text {
@@ -115,6 +117,10 @@ html body .spinCold .ui-group-theme-a .ui-btn, .ui-page-theme-a .ui-btn{border:0
 #pincode-popup .ui-input-text {
 	margin: 4px 4px 8px 4px;
 }
+
+.st-sa-enter {width: inherit; background-color:#4caf50;}
+.st-sa-back {background-color: #f90;}
+.st-sa-cancel {background-color: #f44336;}
 
 /* SLIDER **********/
 .ui-page-theme-a .ui-bar-inherit {background-color:grey;}
